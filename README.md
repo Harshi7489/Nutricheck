@@ -401,7 +401,7 @@ This project is open-source and available under the MIT License.
 ## 👤 Author
 
 **Harshita Singh**
-- GitHub: [@NidhiHalwe](https://github.com/Harshi7489)
+- GitHub: [@Harshita Singh](https://github.com/Harshi7489)
 - Repository: [nutricheck](https://github.com/Harshi7489/Nutricheck)
 
 ## 📧 Support

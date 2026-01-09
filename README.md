@@ -400,9 +400,9 @@ This project is open-source and available under the MIT License.
 
 ## 👤 Author
 
-**Nidhi Halwe**
-- GitHub: [@NidhiHalwe](https://github.com/NidhiHalwe)
-- Repository: [nutrihub-nutrition-calorie-tracker](https://github.com/NidhiHalwe/nutrihub-nutrition-calorie-tracker)
+**Harshita Singh**
+- GitHub: [@NidhiHalwe](https://github.com/Harshi7489)
+- Repository: [nutricheck](https://github.com/Harshi7489/Nutricheck)
 
 ## 📧 Support
 
